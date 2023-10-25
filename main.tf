@@ -1,3 +1,4 @@
+/*
 terraform {
   cloud {
     organization = "EnvelopTechnologies"
@@ -7,7 +8,7 @@ terraform {
     }
   }
 }
-
+*/
 # Install tools for Azure APIs
 
 terraform {
