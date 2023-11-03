@@ -17,7 +17,7 @@ provider "azurerm" {
 # Create a Resource Group
 
 resource "azurerm_resource_group" "RG" {
-  name     = "Terraform_ResourceGroup"
+  name     = "Terraform_Resource_Group"
   location = "East US"
 }
 
